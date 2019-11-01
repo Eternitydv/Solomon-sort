@@ -1,0 +1,6 @@
+﻿  Solomon Sort.cpp
+d:\being productive\pepegammer\solomon sort\solomon sort\solomon sort\solomon sort.cpp(12): warning C4305: инициализация: усечение из "__int64" в "int"
+d:\being productive\pepegammer\solomon sort\solomon sort\solomon sort\solomon sort.cpp(12): warning C4309: инициализация: усечение константного значения
+d:\being productive\pepegammer\solomon sort\solomon sort\solomon sort\solomon sort.cpp(39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\being productive\pepegammer\solomon sort\solomon sort\solomon sort\solomon sort.cpp(61): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Solomon Sort.vcxproj -> D:\Being productive\Pepegammer\Solomon sort\Solomon Sort\Debug\Solomon Sort.exe
